@@ -41,6 +41,7 @@ This project demonstrates practical use of computer vision, image preprocessing,
 
 ## Project Structure
 Smile-Predictor/
+
 │
 ├── app.py # Streamlit application
 
